@@ -1,7 +1,7 @@
 
 
-<video controls width="600">
-  <source src="cart_pole_video.mp4" type="video/mp4">
+<video controls autoplay loop width="100%">
+  <source src="./cart_pole_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
