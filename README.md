@@ -1,4 +1,10 @@
 
+
+<video controls width="600">
+  <source src="cart_pole_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 # Deep Q-Learning with CartPole in Google Colab 🐍🤖🎢
 
 This project demonstrates the implementation of a **Deep Q-Network (DQN)** to solve the classic **CartPole** problem using reinforcement learning. It is designed to run seamlessly in **Google Colab**.
